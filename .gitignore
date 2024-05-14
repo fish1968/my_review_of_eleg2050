@@ -1,0 +1,3 @@
+# Ignore Compiled Verilog result files at any dir
+**/*.vvp
+**/*.vcd
